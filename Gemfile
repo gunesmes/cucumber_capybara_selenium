@@ -7,3 +7,4 @@ gem 'headless'
 gem 'capybara'
 gem 'capybara-webkit'
 gem 'selenium-webdriver'
+gem "poltergeist"
